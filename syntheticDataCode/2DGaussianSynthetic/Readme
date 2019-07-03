@@ -1,0 +1,13 @@
+% ----------------------------------------------------------------------------------
+%   Title:  A Statistical Framework for Visualization of Positional Uncertainty in Deep Brain Stimulation Electrodes
+%   Authors: Tushar M. Athawale, Kara A. Johnson, Chris. R. Butson, and Chris R. Johnson	
+%   Date: 06/26/2019
+% ---------------------------------------------------------------------------------------
+
+Visualization of 2D synthetic data (Fig. 7 in the paper):
+
+Driver file:
+
+syntheticImageComparison.m
+
+You may try playing with SSIM parameter values set on line 73 of the MATLAB script to check sensitivity of visualizations to SSIM parameter values.

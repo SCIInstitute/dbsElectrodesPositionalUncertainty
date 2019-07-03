@@ -1,0 +1,15 @@
+# vtk DataFile Version 2.0
+VTK from Matlab
+ASCII
+DATASET POLYDATA
+POINTS 6 float
+0.66 4.14 0.68 2.13 2.99 3.03 3.60 1.84 5.38 
+5.07 0.69 7.73 0.00 0.00 0.00 0.00 0.00 0.00 
+
+LINES 6 18
+2 0 1
+2 1 2
+2 2 3
+2 1 0
+2 2 1
+2 3 2
